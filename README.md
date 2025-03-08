@@ -1,4 +1,5 @@
 ## **This project consists of two key implementations from scratch:**
+
 1. **Rosenblatt's Perceptron** - A single-layer perceptron used for binary classification.
 2. **2D Convolution** - A manually implemented convolution function to process grayscale images.
 
